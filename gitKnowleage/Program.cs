@@ -1,5 +1,4 @@
 ﻿using System;
-using SAPbobsCOM;
 
 namespace gitKnowleage
 {
@@ -8,7 +7,7 @@ namespace gitKnowleage
         static void Main(string[] args)
         {
             Console.WriteLine("Hola mundo Git primer commit");
-            Console.WriteLine("En la rama1");         
+            Console.WriteLine("En la rama1"); 
         }
     }
 }
